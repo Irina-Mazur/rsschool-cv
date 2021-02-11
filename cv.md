@@ -2,18 +2,20 @@
 
 ## Junior Front-end/JS
 
-### Contacts
+[Contacts](#HContacts) | [Summary](#HSummary) | [Skills](#HSkills) | [Projects](#HProjects) | [Education](#HEducation) | [Work experience](#HExperience) | [Additional Information](#HAddInn) | [Reason for applying for a job](#HReason) | [References](#HReferences)
+
+### <a id="HContacts"></a>Contacts
 
 + **Phone:** +375296866586 (Viber, WhatsApp,Telegram)
 + **Email:** Irin.Mazur@gmail.com
 + **Skype:** Irin.Mazur
 + **Linkedin:**  
 
-## Summary
+## <a id="HSummary"></a>Summary
 
 In search of a stable job and a good team, in order to realize creative potential and practical skills. I treat my duties with due attention and accuracy. I always meet the promised deadlines. I can concentrate on tasks. I quickly find common ground with the new team. I love to study.
 
-## Skills 
+## <a id="HSkills"></a>Skills 
 
 + `HTML`, `CSS`, `JavaScript`, `Node.js`;
 + `Git`, `Github`, `W3C`;
@@ -39,12 +41,12 @@ In search of a stable job and a good team, in order to realize creative potentia
 **German:** Beginner;
 **Italian:** Beginner.
 
-## Projects
+## <a id="HProjects"></a>Projects
 
 ```
 ```
 
-## Education
+## <a id="HEducation"></a>Education
 
 ***December 2020 - to the present*** **- self-education at Rolling Scopes School**  
 ***Course:*** Front-end / JS  
@@ -66,7 +68,7 @@ In search of a stable job and a good team, in order to realize creative potentia
 ***Faculty:*** Higher School of Tourism  
 ***Specialty:*** Economics and management of the socio-cultural sphere
 
-## Work experience
+## <a id="HExperience"></a>Work experience
 
 ***August - November 2020*** **– Trainee, Educational Center for Programming and High Tech (IT-Academy)**  
 ***Project description:*** Desktop application "KIMBA" Version 2.0. Application to convert and optimize Digicam pictures for presentation on a community website.  
@@ -94,17 +96,17 @@ The main responsibilities are the same with the last place of work.
  
 ***February 2007 and earlier*** **- Tourism Specialist, ALC “Magazin goryashchih putevok “Mys”, etc.**
 
-## Additional Information
+## <a id="HAddInn"></a>Additional Information
 
 ***Professional interests:*** I always strive to learn new information, now I am studying "Agile Testing" from the book by Janet Gregory and Liza Crispin. I continue to learn English.
 
 ***Interests:*** Photography, travel, sports, theater.
 
-## Reason for applying for a job 
+## <a id="HReason"></a>Reason for applying for a job 
 
 I received my basic education in the field of tourism and worked in it for a long time. I liked my job, but information technology has changed tourism, many clients have switched to self-planning their travels. Over the past few years, I have become interested in information technology. And I realized that IT for me is a new promising opportunity for constant self-development, realization of my abilities and professional growth. 
 
-## References 
+## <a id="HReferences"></a>References 
 
 Letter of recommendation from Educational Center for Programming and High Tech (IT-Academy)
 
