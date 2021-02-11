@@ -4,10 +4,10 @@
 
 ### Contacts
 
-+ Phone:   +375296866586 (Viber, WhatsApp,Telegram)
-+ Email:     Irin.Mazur@gmail.com
-+ Skype:     Irin.Mazur
-+ Linkedin: 
++ **Phone:** +375296866586 (Viber, WhatsApp,Telegram)
++ **Email:** Irin.Mazur@gmail.com
++ **Skype:** Irin.Mazur
++ **Linkedin:**  
 
 ## Summary
 
@@ -34,10 +34,10 @@ In search of a stable job and a good team, in order to realize creative potentia
 + Software development models: Waterfall, Iterative, Agile (Scrum);
 + ShareX
 
-Foreign languages: 
-English: Pre-Intermediate;
-German: Beginner;
-Italian: Beginner.
+***Foreign languages:*** 
+**English:** Pre-Intermediate;
+**German:** Beginner;
+**Italian:** Beginner.
 
 ## Projects
 
@@ -46,55 +46,59 @@ Italian: Beginner.
 
 ## Education
 
-December 2020 - to the present - self-education at Rolling Scopes School
- Course: Front-end / JS
+***December 2020 - to the present*** **- self-education at Rolling Scopes School**  
+***Course:*** Front-end / JS  
 
-December 2020 - online education service Yandex.Practicum Online Introductory Course: Introductory Course: HTML, CSS, JavaScript
+***December 2020*** **- online education service Yandex.Practicum Online Introductory**  
+***Course:*** Introductory Course: HTML, CSS, JavaScript  
 
-August - November 2020 – Educational Center for Programming and High Tech (IT-Academy)
-Course: Functional Software Testing
-Projects: 3 Desktop testing projects, 3 Web testing projects and 1 Mobile testing project.
+***August - November 2020*** **– Educational Center for Programming and High Tech (IT-Academy)**  
+***Course:*** Functional Software Testing  
+***Projects:*** 3 Desktop testing projects, 3 Web testing projects and 1 Mobile testing project. 
 
-July 2020 - Educational Center for Programming and High Technologies (IT-Academy)
-Online Course: Database Fundamentals and SQL
+***July 2020*** **- Educational Center for Programming and High Technologies (IT-Academy)**
+***Online Course:*** Database Fundamentals and SQL  
 
-May 2020 - online education service Yandex.Practicum Introductory Online Course: Testing Engineer
-
-1997 - 2003 - Belarusian State Economic University
-Faculty: Higher School of Tourism
-Specialty: Economics and management of the socio-cultural sphere
+***May 2020*** **- online education service Yandex.Practicum Introductory**  
+***Online Course:*** Testing Engineer  
+ 
+***1997 - 2003*** **- Belarusian State Economic University**  
+***Faculty:*** Higher School of Tourism  
+***Specialty:*** Economics and management of the socio-cultural sphere
 
 ## Work experience
 
-August - November 2020 – Trainee, Educational Center for Programming and High Tech (IT-Academy)
-Project description: Desktop application "KIMBA" Version 2.0. Application to convert and optimize Digicam pictures for presentation on a community website. 
-Environment: OS: Windows XP Professional SP3 (2002) x32; VirtualBox 6.1.16 Oracle VM VirtualBox.
-Project role: QA Engineer.
-Analysis and testing of requirements. Development and creation of checklists. Search and localization of defects. Registration of defects in the JIRA bug tracking system. Test report.
-Types and methods of testing used: analysis and testing of requirements; smoke test, critical path test, extended test; functional and non-functional testing; usability testing; localization testing; equivalence partitioning; boundary value analysis; GUI testing, positive and negative testing.
-
-October 2019 - to the present - Individual Entrepreneur in the field of tourism, IE Mazur I.V.
-Main responsibilities:
-Regular user of search and booking systems for tours, tickets, hotels, visa centers, etc. Working with tour operators and direct partners. Development and promotion of a tourist product. Communication and correspondence with foreign partners. Selection and sale of individual and group tours. Attracting and advising clients. Identifying their needs. Analysis and development of the client base. Registration of documents. Bookkeeping.
-Achievements:
-Self-planning and business organization.
-
-April 2019 - September 2019 - Tourism Specialist, “Baltic-Media” LLC
-The main responsibilities are the same with the last place of work. Additionally:
-Work in CRM (U-ON.Travel). Working with Polish and Lithuanian operators.
-
-February 2007 - April 2019 - Head of Department, “GoldTravelBel” LLC, PTUE “Hot Tours”, ALC “Leotour”, LLC “Intergroup” (since 2010, reorganized into PTUE “Hot Tours”)
-The main responsibilities are the same with the last job. Additionally:
-Working with the team. Work with objections. Resolving issues in conflict situations.
-Achievements:
-Two certificates "Golden level" from the tour operator "TezTour" for excellent sales, many silver and bronze. Also certificates for success in sales and training from other tour operators. Second and third places for participation in quizzes in different countries and directions, of the latter - for the second place in the direction of the UAE from the tour operator "Voyage Tour".
-
-February 2007 and earlier - Tourism Specialist,ALC “Magazin goryashchih putevok “Mys”, etc.
+***August - November 2020*** **– Trainee, Educational Center for Programming and High Tech (IT-Academy)**  
+***Project description:*** Desktop application "KIMBA" Version 2.0. Application to convert and optimize Digicam pictures for presentation on a community website.  
+***Environment:*** OS: Windows XP Professional SP3 (2002) x32; VirtualBox 6.1.16 Oracle VM VirtualBox.  
+***Project role:*** QA Engineer.  
+Analysis and testing of requirements. Development and creation of checklists. Search and localization of defects. Registration of defects in the JIRA bug tracking system. Test report.  
+***Types and methods of testing used:*** analysis and testing of requirements; smoke test, critical path test, extended test; functional and non-functional testing; usability testing; localization testing; equivalence partitioning; boundary value analysis; GUI testing, positive and negative testing.
+ 
+***October 2019 - to the present*** - **Individual Entrepreneur in the field of tourism, IE Mazur I.V.**  
+*Main responsibilities:*
++ Regular user of search and booking systems for tours, tickets, hotels, visa centers, etc. Working with tour operators and direct partners. Development and promotion of a tourist product. Communication and correspondence with foreign partners. Selection and sale of individual and group tours. Attracting and advising clients. Identifying their needs. Analysis and development of the client base. Registration of documents. Bookkeeping.  
+*Achievements:*
++ Self-planning and business organization.
+ 
+***April 2019 - September 2019*** **- Tourism Specialist, “Baltic-Media” LLC.**   
+The main responsibilities are the same with the last place of work.     
+*Additionally:*
++ Work in CRM (U-ON.Travel). Working with Polish and Lithuanian operators.  
+ 
+***February 2007 - April 2019*** **- Head of Department, “GoldTravelBel” LLC, PTUE “Hot Tours”, ALC “Leotour”, LLC “Intergroup” (since 2010, reorganized into PTUE “Hot Tours”)**  
+*The main responsibilities are the same with the last job. Additionally:*  
++ Working with the team. Work with objections. Resolving issues in conflict situations.  
+*Achievements:*
++ Two certificates "Golden level" from the tour operator "TezTour" for excellent sales, many silver and bronze. Also certificates for success in sales and training from other tour operators. Second and third places for participation in quizzes in different countries and directions, of the latter - for the second place in the direction of the UAE from the tour operator "Voyage Tour".
+ 
+***February 2007 and earlier*** **- Tourism Specialist, ALC “Magazin goryashchih putevok “Mys”, etc.**
 
 ## Additional Information
 
-Professional interests: I always strive to learn new information, now I am studying "Agile Testing" from the book by Janet Gregory and Liza Crispin. I continue to learn English.
-Interests: Photography, travel, sports, theater.
+***Professional interests:*** I always strive to learn new information, now I am studying "Agile Testing" from the book by Janet Gregory and Liza Crispin. I continue to learn English.
+
+***Interests:*** Photography, travel, sports, theater.
 
 ## Reason for applying for a job 
 
