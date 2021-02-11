@@ -15,24 +15,24 @@ In search of a stable job and a good team, in order to realize creative potentia
 
 ## Skills 
 
-+ HTML, CSS, JavaScript, Node.js
-+ Git, Github, W3C
-+ VSCode, Discord, Photoshop
++ `HTML`, `CSS`, `JavaScript`, `Node.js`;
++ `Git`, `Github`, `W3C`;
++ `VSCode`, `Discord`, `Photoshop`;
 + Analysis and testing of documentation;
-+ Development and creation of checklists and test cases (TestRail, Qase, Google Spreadsheets);
++ Development and creation of checklists and test cases (`TestRail`, `Qase`, `Google Spreadsheets`);
 + Functional and non-functional testing: Desktop, Web, Mobile;
-+ Tools: Katalon Recorder, Selenium IDE, Postman, SOAP UI, Fiddler, Android Studio;
++ Tools: `Katalon Recorder`, `Selenium IDE`, `Postman`, `SOAP UI`, `Fiddle`r, `Android Studio`;
 + Search, localization and registration of defects and enhancements;
-+ Bug tracking systems (JIRA, Fibery);
++ Bug tracking systems (`JIRA`, `Fibery`);
 + Drawing up reports on test results;
 + Regression testing, etc .;
-+ Test design techniques, including using the PICT tool for Pairwise testing;
++ Test design techniques, including using the `PICT` tool for Pairwise testing;
 + OSI model;
-+ SQL databases, including PuTTY (MySQL);
-+ Apache web server
-+ Virtual Box Virtual Machine / Oracle VM VirtualBox;
++ `SQL` databases, including `PuTTY` (`MySQL`);
++ `Apache` web server
++ `Virtual Box` Virtual Machine / `Oracle VM VirtualBox`;
 + Software development models: Waterfall, Iterative, Agile (Scrum);
-+ ShareX
++ `ShareX`
 
 ***Foreign languages:*** 
 **English:** Pre-Intermediate;
