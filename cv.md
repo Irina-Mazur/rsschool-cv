@@ -4,10 +4,10 @@
 
 ### Contacts
 
-Phone:   +375296866586 (Viber, WhatsApp,Telegram)
-Email:     Irin.Mazur@gmail.com
-Skype:     Irin.Mazur
-Linkedin: 
++ Phone:   +375296866586 (Viber, WhatsApp,Telegram)
++ Email:     Irin.Mazur@gmail.com
++ Skype:     Irin.Mazur
++ Linkedin: 
 
 ## Summary
 
@@ -15,29 +15,34 @@ In search of a stable job and a good team, in order to realize creative potentia
 
 ## Skills 
 
-HTML, CSS, JavaScript, Node.js
-Git, Github, W3C
-VSCode, Discord, Photoshop
-Analysis and testing of documentation;
-Development and creation of checklists and test cases (TestRail, Qase, Google Spreadsheets);
-Functional and non-functional testing: Desktop, Web, Mobile;
-Tools: Katalon Recorder, Selenium IDE, Postman, SOAP UI, Fiddler, Android Studio;
-Search, localization and registration of defects and enhancements;
-Bug tracking systems (JIRA, Fibery);
-Drawing up reports on test results;
-Regression testing, etc .;
-Test design techniques, including using the PICT tool for Pairwise testing;
-OSI model;
-SQL databases, including PuTTY (MySQL);
-Apache web server
-Virtual Box Virtual Machine / Oracle VM VirtualBox;
-Software development models: Waterfall, Iterative, Agile (Scrum);
-ShareX
++ HTML, CSS, JavaScript, Node.js
++ Git, Github, W3C
++ VSCode, Discord, Photoshop
++ Analysis and testing of documentation;
++ Development and creation of checklists and test cases (TestRail, Qase, Google Spreadsheets);
++ Functional and non-functional testing: Desktop, Web, Mobile;
++ Tools: Katalon Recorder, Selenium IDE, Postman, SOAP UI, Fiddler, Android Studio;
++ Search, localization and registration of defects and enhancements;
++ Bug tracking systems (JIRA, Fibery);
++ Drawing up reports on test results;
++ Regression testing, etc .;
++ Test design techniques, including using the PICT tool for Pairwise testing;
++ OSI model;
++ SQL databases, including PuTTY (MySQL);
++ Apache web server
++ Virtual Box Virtual Machine / Oracle VM VirtualBox;
++ Software development models: Waterfall, Iterative, Agile (Scrum);
++ ShareX
 
 Foreign languages: 
 English: Pre-Intermediate;
 German: Beginner;
 Italian: Beginner.
+
+## Projects
+
+```
+```
 
 ## Education
 
