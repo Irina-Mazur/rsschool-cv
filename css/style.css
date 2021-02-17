@@ -410,7 +410,7 @@ body{
 }
 
 .wrapper{
-    max-width: 1140px;
+    max-width: 1340px;
     margin: 0 auto;
 }
 
@@ -474,13 +474,15 @@ body{
     background: no-repeat center;
     background-color: #FFFFFF;
     background-size: cover;
-    padding-top: 191px;
-    margin-bottom: 160px;
+    padding-top: 220px;
+    
 }
 
 .about_wrapper{
+    max-width: 1071px;
+    margin: 0 auto;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap; 
     align-items: center;
     justify-content: space-around;
 }
@@ -529,5 +531,112 @@ body{
     margin-bottom: 160px;
 }
 
-
 /*About styles end*/
+
+/*Work styles start*/
+
+.work_wrap{
+    max-width: 1140px;
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    position: relative;
+}
+
+.work_title{
+    max-width: 305px;
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 48,78px;
+    color: #1F2229;
+    padding: 160px 0 60px 0;
+    position: absolute;
+    top: 0;
+    left: 38%;
+    transform: translateY(-115%);
+    
+}
+
+.work_about{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; 
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.number{
+    max-width: 195px;
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 98px;
+    color: #DDAFAF;
+}
+
+.work_date_position{
+    max-width: 792px;
+    font-family: 'Gilroy Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #1F2229;
+    margin-bottom: 18px;
+}
+
+.work_date_position5{
+    max-width: 792px;
+    font-family: 'Gilroy Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #1F2229;
+    margin-bottom: 55px;
+}
+
+.work_article_name{
+    font-family: 'Gilroy Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #DDAFAF;
+    margin-bottom: 14px;
+}
+
+.article{
+    max-width: 754px;
+    font-family: 'Gilroy Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #363B45;
+    margin-bottom: 18px;
+}
+
+.work_pic{
+    max-width: 300px;
+    margin-left: 420px;
+    margin-bottom: -50px;
+}
+
+/*Work styles end*/
+
+/*Education styles start*/
+
+.education_wrap{
+    max-width: 100%;
+    height: 100px;
+    border-style: solid;
+    background-color: rgba(221, 175, 175, 0.3);
+    margin: 0 auto;
+    position: relative;
+}
+
+/*Education styles end*/
