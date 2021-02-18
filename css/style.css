@@ -632,11 +632,83 @@ body{
 
 .education_wrap{
     max-width: 100%;
-    height: 100px;
     border-style: solid;
     background-color: rgba(221, 175, 175, 0.3);
     margin: 0 auto;
     position: relative;
 }
 
+.education_title{
+    max-width: 179px;
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 48,78px; 
+    color: #1F2229;
+    padding-top: 99px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 16px;
+}
+
+.education_about{
+    max-width: 906px;
+    margin: 0 auto;
+}
+
+.education_date_position{
+    max-width: 863px;
+    font-family: 'Gilroy Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #1F2229;
+    margin-bottom: 20px;
+}
+
+.education_article_name{
+    font-family: 'Gilroy Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #6C5555;
+    margin-bottom: 10px;
+}
+
+.education_article{
+    max-width: 579px;
+    font-family: 'Gilroy Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #1F2229;
+    margin-bottom: 40px;
+}
+
+.education_and_pic{
+    max-width: 1006px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap; 
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.education_pic{
+    max-width: 383px;
+    max-height: 383px;
+    margin-top: -40px;
+    margin-bottom: 49px;
+}
+
 /*Education styles end*/
+
+/*Skills styles start*/
+
+
+
+/*Skills styles end*/
