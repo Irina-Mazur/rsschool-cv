@@ -709,6 +709,140 @@ body{
 
 /*Skills styles start*/
 
+.skills_wrap{
+    max-width: 1091px;
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    position: relative;
+}
 
+.skills_title{
+    max-width: 93px;
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 48,78px; 
+    color: #1F2229;
+    padding-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+}
+
+.skills_about{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap; 
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.skills_list{
+    list-style-image: url(../img/svg/ico.svg);
+    font-family: 'Gilroy Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px; 
+    color: #1F2229;
+    margin-bottom: 40px;
+}
+
+.skills_item{
+    max-width: 517px;
+    font-family: 'Gilroy Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px; 
+    color: #1F2229;
+    margin-bottom: 16px;
+    padding-left: 10px;
+}
+
+.tools_title{
+    font-family: 'Gilroy Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #1F2229;
+    margin-left: -20px;
+    margin-bottom: 20px;
+}
+
+.tools{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap; 
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-left: -20px;
+}
+
+.tool{
+    max-width: 30px;
+    margin-right: 30px;
+    margin-bottom: 90px;
+}
+
+.skills_list_list2{
+    padding-left: 63px;
+}
+
+.foreingn_languages{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap; 
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-left: -20px;
+}
+
+.language_pic{
+    max-width: 30px;
+    padding-top: 13px;
+    margin-right: 10px;
+    margin-bottom: 89px;
+}
+
+.language_title{
+    font-family: 'Gilroy Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px; 
+    color: #1F2229;
+    padding-top: 9px;
+    margin-right: 30px;
+    margin-bottom: 89px;
+}
 
 /*Skills styles end*/
+
+/*Projects styles start*/
+
+.projects_wrap{
+    max-width: 100%;
+    border-style: solid;
+    background-color: rgba(221, 175, 175, 0.3);
+    margin: 0 auto;
+    position: relative;
+}
+
+.projects_title{
+    max-width: 141px;
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 48,78px; 
+    color: #1F2229;
+    padding-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+
+/*Projects styles end*/
