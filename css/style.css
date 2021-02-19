@@ -904,8 +904,114 @@ body{
     margin-bottom: 36px;
 }
 
+.add_information{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap; 
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.interest_title{
+    font-family: 'Gilroy Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #1F2229;
+    padding-top: 24px;
+    margin-bottom: 10px;
+}
+
+.interest{
+    font-family: 'Gilroy Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px; 
+    color: #1F2229;
+    margin-bottom: 30px;
+}
+
+.interest_pic{
+    max-width: 291px;
+    max-height: 291px;
+    margin-left: 57px;
+    margin-top: 16px;
+    margin-bottom: -60px;
+}
+
+.reason_title{
+    font-family: 'Gilroy Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #1F2229;
+    padding-top: 24px;
+    margin-bottom: 10px;
+}
+
+.job_quotes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap; 
+    align-items: center;
+    justify-content: space-between;
+}
+
+.quotes_up{
+    max-width: 44px;
+    height: 153px;
+    margin-right: 4px;
+    margin-top: -110px;
+}
+
+.for_a_job{
+    font-family: 'Gilroy Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px; 
+    color: #1F2229;
+    margin-bottom: 30px;
+}
+
+.quotes_down{
+    max-width: 44px;
+    height: 153px;
+    margin-top: 10px;
+}
+
+.references{
+    margin-bottom: 120px;
+}
+
+.references_title{
+    font-family: 'Gilroy Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #1F2229;
+    margin-bottom: 10px;
+}
+
+.reference{
+    font-family: 'Gilroy Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px; 
+    color: #1F2229;
+    margin-bottom: 120px;
+}
 
 /*Add styles end*/
+
+/*Footer styles start*/
+
+/*Footer styles end*/
 
 
 
