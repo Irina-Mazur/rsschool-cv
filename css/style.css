@@ -829,6 +829,7 @@ body{
     background-color: rgba(221, 175, 175, 0.3);
     margin: 0 auto;
     position: relative;
+  
 }
 
 .projects_title{
@@ -845,4 +846,66 @@ body{
     margin-bottom: 40px;
 }
 
+.description_projects{
+    max-width: 1372px;
+    display: grid;
+    grid-template-columns: repeat(3, 464px);
+    grid-template-rows: 275px;
+    column-gap: 20px;
+    margin-left: 44px;
+}
+
+.description_project{
+    background-color: #FFFFFF;
+}
+
+.project_number{
+    font-family: 'Gilroy Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.project_number1{
+    font-family: 'Gilroy Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+    margin-bottom: 102px;
+}
+
 /*Projects styles end*/
+
+/*Add styles start*/
+
+.add_wrap{
+    max-width: 936px;
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    position: relative;
+}
+
+.add_title{
+    max-width: 393px;
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 48,78px; 
+    color: #1F2229;
+    padding-top: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 36px;
+}
+
+
+/*Add styles end*/
+
+
+
