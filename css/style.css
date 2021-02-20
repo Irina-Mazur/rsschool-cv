@@ -1011,6 +1011,89 @@ body{
 
 /*Footer styles start*/
 
+.footer_wrap{
+    max-width: 1340px;
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    position: relative;
+}
+
+.footer_title{
+    max-width: 153px;
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 48,78px; 
+    color: #1F2229;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 49px;
+}
+
+.contacts{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.messages_tel{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: flex-start;
+    margin-right: 10px;
+}
+
+.footer_link_tel{
+    font-family: 'Gilroy Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px; 
+    color: #1F2229;
+    text-decoration: none;
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+.gmail{
+    font-family: 'Gilroy Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px; 
+    color: #1F2229;
+    text-decoration: none;
+    margin-left: 10px;
+
+}
+
+.skype_name{
+    font-family: 'Gilroy Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px; 
+    color: #1F2229;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.social_name{
+    font-family: 'Gilroy Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px; 
+    color: #1F2229;
+    margin-right: 10px;
+}
+
 /*Footer styles end*/
 
 
