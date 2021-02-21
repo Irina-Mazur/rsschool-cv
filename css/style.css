@@ -410,8 +410,9 @@ body{
 }
 
 .wrapper{
-    max-width: 1340px;
     margin: 0 auto;
+    padding: 0 15px;
+    max-width: 1340px;
 }
 
 /*Header styles start*/
@@ -420,48 +421,51 @@ body{
     position: fixed;
     top: 0;
     left: 0;
+    padding: 0 15px;
     width: 100%;
 }
 
-.header_wrapper{
+.header-wrapper{
     display: flex;
     flex-wrap: wrap;
     align-items: flex-end;
     justify-content: space-between;
 }
 
-.header_logo-link{
+.header-logo-link{
+    padding-top: 34px;
     font-family: 'Prata';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
-    line-height: 32,52px;
+    line-height: 33px;
     color: #1F2229;
     text-decoration: none;
-    padding-top: 34px;
 }
 
-.header_list{
+.header-list{
+    padding-top: 41px;
     display: flex;
     flex-wrap: wrap;
-    padding-top: 41px;
 }
 
-.header_item{
+.header-item{
     margin-right: 50px;
 }
 
-.header_item:last-child{
+.header-item:last-child{
     margin-right: 0;
 }
 
-.header_link{
-    line-height: 18,56px;
+.header-link{
+    line-height: 19px;
     color: #1F2229;
     text-decoration: none;
 }
 
-.header_link:hover, .header_link:focus, .header_link:active{
+.header-link:hover, 
+.header-link:focus, 
+.header-link:active{
     opacity: .75;
 }
 
@@ -470,62 +474,61 @@ body{
 /*About styles start*/
 
 .about{
+    padding-top: 220px;
     min-height: 100vh;
     background: no-repeat center;
     background-color: #FFFFFF;
     background-size: cover;
-    padding-top: 220px;
-    
 }
 
-.about_wrapper{
-    max-width: 1071px;
+.about-wrapper{
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap; 
     align-items: center;
     justify-content: space-around;
+    max-width: 1071px;
 }
 
-.about_title{
+.about-title{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 16px;
     max-width: 260px;
     font-family: 'Prata';
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
-    line-height: 48,78px; 
+    line-height: 49px; 
     color: #1F2229;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 16px;
 }
 
-.about_subtitle{
+.about-subtitle{
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
     max-width: 154px;
     font-family: 'Gilroy Regular';
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
-    line-height: 18,56px;
+    line-height: 19px;
     color: #DDAFAF;
-    margin-bottom: 20px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
-.about_subtitle2{
+.about-subtitle2{
+    margin-bottom: 187px;
     max-width: 676px;
     font-family: 'Gilroy Regular';
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
-    line-height: 19,60px;
-    color: #1F2229;
+    line-height: 20px;
+    color: #1F2229; 
     text-align: center;
-    margin-bottom: 187px;
 }    
 
-.about_pic{
+.about-pic{
     max-width: 218px;
     margin-left: 177px;
     margin-bottom: 160px;
@@ -535,36 +538,36 @@ body{
 
 /*Work styles start*/
 
-.work_wrap{
+.work-wrap{
+    position: relative;
+    margin: 0 auto;
+    padding: 0 15px;
     max-width: 1140px;
     background-color: #FFFFFF;
-    margin: 0 auto;
-    position: relative;
 }
 
-.work_title{
+.work-title{
+    position: absolute;
+    top: 0;
+    left: 38%;
+    transform: translateY(-115%);
+    padding: 160px 0 60px;
     max-width: 305px;
     font-family: 'Prata';
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
-    line-height: 48,78px;
+    line-height: 49px;
     color: #1F2229;
-    padding: 160px 0 60px 0;
-    position: absolute;
-    top: 0;
-    left: 38%;
-    transform: translateY(-115%);
-    
 }
 
-.work_about{
+.work-about{
+    margin-bottom: 50px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap; 
     align-items: flex-start;
     justify-content: space-between;
-    margin-bottom: 50px;
 }
 
 .number{
@@ -577,18 +580,8 @@ body{
     color: #DDAFAF;
 }
 
-.work_date_position{
-    max-width: 792px;
-    font-family: 'Gilroy Medium';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 28px;
-    color: #1F2229;
+.work-date-position{
     margin-bottom: 18px;
-}
-
-.work_date_position5{
     max-width: 792px;
     font-family: 'Gilroy Medium';
     font-style: normal;
@@ -596,20 +589,31 @@ body{
     font-size: 20px;
     line-height: 28px;
     color: #1F2229;
-    margin-bottom: 55px;
 }
 
-.work_article_name{
+.work-date-position5{
+    margin-bottom: 55px;
+    max-width: 792px;
+    font-family: 'Gilroy Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #1F2229;
+}
+
+.work-article-name{
+    margin-bottom: 14px;
     font-family: 'Gilroy Regular';
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 20px;
     color: #DDAFAF;
-    margin-bottom: 14px;
 }
 
 .article{
+    margin-bottom: 18px;
     max-width: 754px;
     font-family: 'Gilroy Regular';
     font-style: normal;
@@ -617,10 +621,9 @@ body{
     font-size: 16px;
     line-height: 22px;
     color: #363B45;
-    margin-bottom: 18px;
 }
 
-.work_pic{
+.work-pic{
     max-width: 300px;
     margin-left: 420px;
     margin-bottom: -50px;
@@ -630,34 +633,36 @@ body{
 
 /*Education styles start*/
 
-.education_wrap{
+.education-wrap{
+    position: relative;
+    margin: 0 auto;
+    padding: 0 15px;
     max-width: 100%;
     border-style: solid;
     background-color: rgba(221, 175, 175, 0.3);
-    margin: 0 auto;
-    position: relative;
 }
 
-.education_title{
+.education-title{
+    padding-top: 99px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 16px;
     max-width: 179px;
     font-family: 'Prata';
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
-    line-height: 48,78px; 
+    line-height: 49px; 
     color: #1F2229;
-    padding-top: 99px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 16px;
 }
 
-.education_about{
-    max-width: 906px;
+.education-about{
     margin: 0 auto;
+    max-width: 906px;
 }
 
-.education_date_position{
+.education-date-position{
+    margin-bottom: 20px;
     max-width: 863px;
     font-family: 'Gilroy Medium';
     font-style: normal;
@@ -665,20 +670,20 @@ body{
     font-size: 20px;
     line-height: 24px;
     color: #1F2229;
-    margin-bottom: 20px;
 }
 
-.education_article_name{
+.education-article-name{
+    margin-bottom: 10px;
     font-family: 'Gilroy Medium';
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
     color: #6C5555;
-    margin-bottom: 10px;
 }
 
-.education_article{
+.education-article{
+    margin-bottom: 40px;
     max-width: 579px;
     font-family: 'Gilroy Regular';
     font-style: normal;
@@ -686,51 +691,51 @@ body{
     font-size: 16px;
     line-height: 19px;
     color: #1F2229;
-    margin-bottom: 40px;
 }
 
-.education_and_pic{
-    max-width: 1006px;
+.education-and-pic{
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap; 
     align-items: flex-start;
     justify-content: space-between;
+    max-width: 1006px;
 }
 
-.education_pic{
-    max-width: 383px;
-    max-height: 383px;
+.education-pic{
     margin-top: -40px;
     margin-bottom: 49px;
+    max-width: 383px;
+    max-height: 383px;
 }
 
 /*Education styles end*/
 
 /*Skills styles start*/
 
-.skills_wrap{
+.skills-wrap{
+    position: relative;
+    margin: 0 auto;
+    padding: 0 15px;
     max-width: 1091px;
     background-color: #FFFFFF;
-    margin: 0 auto;
-    position: relative;
 }
 
-.skills_title{
+.skills-title{
+    padding-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
     max-width: 93px;
     font-family: 'Prata';
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
-    line-height: 48,78px; 
+    line-height: 49px; 
     color: #1F2229;
-    padding-top: 80px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 60px;
 }
 
-.skills_about{
+.skills-about{
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap; 
@@ -738,173 +743,173 @@ body{
     justify-content: space-between;
 }
 
-.skills_list{
+.skills-list{
+    margin-bottom: 40px;
     list-style-image: url(../img/svg/ico.svg);
     font-family: 'Gilroy Regular';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 22px; 
-    color: #1F2229;
-    margin-bottom: 40px;
+    color: #1F2229; 
 }
 
-.skills_item{
-    max-width: 517px;
+.skills-item{
+    padding-left: 10px;
+    margin-bottom: 16px;
     font-family: 'Gilroy Regular';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 22px; 
     color: #1F2229;
-    margin-bottom: 16px;
-    padding-left: 10px;
 }
 
-.tools_title{
+.tools-title{
+    margin-left: -20px;
+    margin-bottom: 20px;
     font-family: 'Gilroy Medium';
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 24px;
     color: #1F2229;
-    margin-left: -20px;
-    margin-bottom: 20px;
 }
 
 .tools{
+    margin-left: -20px;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap; 
     align-items: flex-start;
     justify-content: flex-start;
-    margin-left: -20px;
 }
 
 .tool{
-    max-width: 30px;
     margin-right: 30px;
     margin-bottom: 90px;
+    max-width: 30px;
 }
 
-.skills_list_list2{
+.skills-list-list2{
     padding-left: 63px;
 }
 
-.foreingn_languages{
+.foreingn-languages{
+    margin-left: -20px;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap; 
     align-items: flex-start;
     justify-content: flex-start;
-    margin-left: -20px;
 }
 
-.language_pic{
-    max-width: 30px;
+.language-pic{
     padding-top: 13px;
     margin-right: 10px;
     margin-bottom: 89px;
+    max-width: 30px;
 }
 
-.language_title{
+.language-title{
+    padding-top: 9px;
+    margin-right: 30px;
+    margin-bottom: 89px;
     font-family: 'Gilroy Regular';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 22px; 
     color: #1F2229;
-    padding-top: 9px;
-    margin-right: 30px;
-    margin-bottom: 89px;
 }
 
 /*Skills styles end*/
 
 /*Projects styles start*/
 
-.projects_wrap{
+.projects-wrap{
+    position: relative;
+    margin: 0 auto;
+    padding: 0 15px;
     max-width: 100%;
     border-style: solid;
     background-color: rgba(221, 175, 175, 0.3);
-    margin: 0 auto;
-    position: relative;
-  
 }
 
-.projects_title{
+.projects-title{
+    padding-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
     max-width: 141px;
     font-family: 'Prata';
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
-    line-height: 48,78px; 
-    color: #1F2229;
-    padding-top: 60px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 40px;
+    line-height: 49px; 
+    color: #1F2229; 
 }
 
-.description_projects{
-    max-width: 1372px;
+.description-projects{
+    margin-left: 30px;
     display: grid;
     grid-template-columns: repeat(3, 464px);
     grid-template-rows: 275px;
     column-gap: 20px;
-    margin-left: 44px;
+    max-width: 1372px;
 }
 
-.description_project{
+.description-project{
     background-color: #FFFFFF;
 }
 
-.project_number{
+.project-number{
+    margin-bottom: 20px;
     font-family: 'Gilroy Medium';
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 22px;
     color: #000000;
-    margin-bottom: 20px;
 }
 
-.project_number1{
+.project-number1{
+    margin-bottom: 102px;
     font-family: 'Gilroy Medium';
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 22px;
     color: #000000;
-    margin-bottom: 102px;
 }
 
 /*Projects styles end*/
 
 /*Add styles start*/
 
-.add_wrap{
+.add-wrap{
+    position: relative;
+    margin: 0 auto;
+    padding: 0 15px;
     max-width: 936px;
     background-color: #FFFFFF;
-    margin: 0 auto;
-    position: relative;
 }
 
-.add_title{
+.add-title{
+    padding-top: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 36px;
     max-width: 393px;
     font-family: 'Prata';
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
-    line-height: 48,78px; 
+    line-height: 49px; 
     color: #1F2229;
-    padding-top: 90px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 36px;
 }
 
-.add_information{
+.add-information{
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap; 
@@ -912,47 +917,47 @@ body{
     justify-content: space-between;
 }
 
-.interest_title{
+.interest-title{
+    padding-top: 24px;
+    margin-bottom: 10px;
     font-family: 'Gilroy Medium';
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 28px;
     color: #1F2229;
-    padding-top: 24px;
-    margin-bottom: 10px;
 }
 
 .interest{
+    margin-bottom: 30px;
     font-family: 'Gilroy Regular';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 22px; 
     color: #1F2229;
-    margin-bottom: 30px;
 }
 
-.interest_pic{
-    max-width: 291px;
-    max-height: 291px;
+.interest-pic{
     margin-left: 57px;
     margin-top: 16px;
     margin-bottom: -60px;
+    max-width: 291px;
+    max-height: 291px;
 }
 
-.reason_title{
+.reason-title{
+    padding-top: 24px;
+    margin-bottom: 10px;
     font-family: 'Gilroy Medium';
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 28px;
     color: #1F2229;
-    padding-top: 24px;
-    margin-bottom: 10px;
 }
 
-.job_quotes{
+.job-quotes{
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap; 
@@ -960,108 +965,110 @@ body{
     justify-content: space-between;
 }
 
-.quotes_up{
+.quotes-up{
+    margin-top: -110px;
     max-width: 44px;
     height: 153px;
-    margin-right: 4px;
-    margin-top: -110px;
 }
 
-.for_a_job{
+.for-a-job{
+    margin-left: 15px;
+    margin-bottom: 30px;
     font-family: 'Gilroy Regular';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 22px; 
     color: #1F2229;
-    margin-bottom: 30px;
 }
 
-.quotes_down{
+.quotes-down{
+    margin-top: 10px;
     max-width: 44px;
     height: 153px;
-    margin-top: 10px;
 }
 
 .references{
     margin-bottom: 120px;
 }
 
-.references_title{
+.references-title{
+    margin-bottom: 10px;
     font-family: 'Gilroy Medium';
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 28px;
     color: #1F2229;
-    margin-bottom: 10px;
 }
 
 .reference{
+    margin-bottom: 120px;
     font-family: 'Gilroy Regular';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 22px; 
     color: #1F2229;
-    margin-bottom: 120px;
 }
 
 /*Add styles end*/
 
 /*Footer styles start*/
 
-.footer_wrap{
+.footer-wrap{
+    position: relative;
+    margin: 0 auto;
+    padding: 0 15px;
     max-width: 1340px;
     background-color: #FFFFFF;
-    margin: 0 auto;
-    position: relative;
 }
 
-.footer_title{
+.footer-title{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 49px;
     max-width: 153px;
     font-family: 'Prata';
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
-    line-height: 48,78px; 
+    line-height: 49px; 
     color: #1F2229;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 49px;
 }
 
 .contacts{
+    margin-bottom: 30px;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 30px;
 }
 
-.messages_tel{
+.messages-tel{
+    margin-right: 10px;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
     align-items: center;
     justify-content: flex-start;
-    margin-right: 10px;
 }
 
-.footer_link_tel{
+.footer-link-tel{
+    margin-right: 0px;
+    margin-left: 10px;
     font-family: 'Gilroy Medium';
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 24px; 
     color: #1F2229;
-    text-decoration: none;
-    margin-right: 0px;
-    margin-left: 10px;
+    text-decoration: none;  
 }
 
 .gmail{
+    margin-left: 10px;
     font-family: 'Gilroy Medium';
     font-style: normal;
     font-weight: 500;
@@ -1069,11 +1076,10 @@ body{
     line-height: 24px; 
     color: #1F2229;
     text-decoration: none;
-    margin-left: 10px;
-
 }
 
-.skype_name{
+.skype-name{
+    margin-left: 10px;
     font-family: 'Gilroy Medium';
     font-style: normal;
     font-weight: 500;
@@ -1081,17 +1087,16 @@ body{
     line-height: 24px; 
     color: #1F2229;
     text-decoration: none;
-    margin-left: 10px;
 }
 
-.social_name{
+.social-name{
+    margin-right: 10px;
     font-family: 'Gilroy Regular';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 19px; 
     color: #1F2229;
-    margin-right: 10px;
 }
 
 /*Footer styles end*/
