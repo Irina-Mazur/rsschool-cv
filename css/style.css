@@ -1118,7 +1118,7 @@ body {
 }
 
 .contacts {
-  margin-bottom: 30px;
+  margin-bottom: 56px;
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
@@ -1171,6 +1171,25 @@ body {
 
 .social-name {
   margin-right: 10px;
+  font-family: "Gilroy Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #1f2229;
+}
+
+.rsschool-date {
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.footer-date {
+  padding-left: 285px;
   font-family: "Gilroy Regular";
   font-style: normal;
   font-weight: 400;
