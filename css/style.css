@@ -557,7 +557,7 @@ body {
 
 .about {
   padding-top: 220px;
-  min-height: 100vh;
+  min-height: 0px;
   background: no-repeat center;
   background-color: #ffffff;
   background-size: cover;
@@ -630,10 +630,9 @@ body {
 
 .work-title {
   position: absolute;
-  top: 0;
-  left: 38%;
-  transform: translateY(-115%);
-  padding: 160px 0 60px;
+  margin-top: 15px;
+  margin-left: 417px;
+  margin-bottom: 30px;
   max-width: 305px;
   font-family: "Prata";
   font-style: normal;
@@ -662,8 +661,19 @@ body {
   color: #ddafaf;
 }
 
+.number_one {
+  max-width: 195px;
+  font-family: "Prata";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 98px;
+  color: #ddafaf;
+  margin-top: 130px;
+}
+
 .work-date-position {
-  margin-bottom: 18px;
+  margin-bottom: 20px;
   max-width: 792px;
   font-family: "Gilroy Medium";
   font-style: normal;
@@ -671,6 +681,18 @@ body {
   font-size: 20px;
   line-height: 28px;
   color: #1f2229;
+}
+
+.work-date-position_one {
+  margin-bottom: 20px;
+  max-width: 792px;
+  font-family: "Gilroy Medium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  color: #1f2229;
+  margin-top: 130px;
 }
 
 .work-date-position5 {
@@ -941,6 +963,21 @@ body {
 
 .description-project {
   background-color: #ffffff;
+}
+
+.project_name {
+  font-family: "Gilroy Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 49px;
+  color: #000000;
+  margin: 50px 20px;
+  text-align: center;
+}
+
+.project_link {
+  color: #ddafaf;
 }
 
 .project-number {
