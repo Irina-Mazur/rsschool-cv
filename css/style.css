@@ -1236,6 +1236,15 @@ body {
   color: #1f2229;
 }
 
+.social-media-list {
+  margin-right: 0px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: flex-start;
+}
+
 .rsschool-date {
   margin-bottom: 50px;
   display: flex;
