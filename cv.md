@@ -1,8 +1,8 @@
 # Irina Mazur
 
-## Junior Front-end/JS
+## Junior Frontend Developer
 
-[Contacts](#HContacts) | [Summary](#HSummary) | [Skills](#HSkills) | [Projects](#HProjects) | [Education](#HEducation) | [Work experience](#HExperience) | [Additional Information](#HAddInn) | [Reason for applying for a job](#HReason) | [References](#HReferences)
+[Contacts](#HContacts) | [Summary](#HSummary) | [Skills](#HSkills) | [Code Examples](#HProjects) | [Education](#HEducation) | [Work experience](#HExperience) | [English Language](#HAddInn) 
 
 ### <a id="HContacts"></a>Contacts
 
@@ -14,35 +14,20 @@
 
 ## <a id="HSummary"></a>Summary
 
-In search of a stable job and a good team, in order to realize creative potential and practical skills. I treat my duties with due attention and accuracy. I always meet the promised deadlines. I can concentrate on tasks. I quickly find common ground with the new team. I love to study.
+I started my career in the field of information technology in 2020 with software testing and later became interested in web development, earning a degree as a Software Engineer. Currently, I am actively developing my skills in Front-end and Full-stack development, learning modern technologies and working on personal projects. I am attentive to details, responsible, and always strive to see tasks through to completion.
 
 ## <a id="HSkills"></a>Skills 
 
-+ `HTML`, `CSS`, `JavaScript`, `Node.js`;
-+ `Git`, `Github`, `W3C`;
-+ `VSCode`, `Discord`, `Photoshop`;
-+ Analysis and testing of documentation;
-+ Development and creation of checklists and test cases (`TestRail`, `Qase`, `Google Spreadsheets`);
-+ Functional and non-functional testing: Desktop, Web, Mobile;
-+ Tools: `Katalon Recorder`, `Selenium IDE`, `Postman`, `SOAP UI`, `Fiddle`r, `Android Studio`;
-+ Search, localization and registration of defects and enhancements;
-+ Bug tracking systems (`JIRA`, `Fibery`);
-+ Drawing up reports on test results;
-+ Regression testing, etc .;
-+ Test design techniques, including using the `PICT` tool for Pairwise testing;
-+ OSI model;
-+ `SQL` databases, including `PuTTY` (`MySQL`);
-+ `Apache` web server
-+ `Virtual Box` Virtual Machine / `Oracle VM VirtualBox`;
-+ Software development models: Waterfall, Iterative, Agile (Scrum);
-+ `ShareX`
++ **Frontend Development:** `HTML`, `CSS`, `JavaScript`, `React (in progress)`, `TypeScript (in progress)`, `Sass`, `Less`, `Chakra UI`;
++ **Build Tools & Version Control & Web service:** `Git`, `Github`, `Webpack`, `Vite`;
++ **Backend & Databases:** `Node.js`, `MS SQL`, `MySQL`, `Oracle (basic)`;
++ **Programming Languages:** `C++`, `C#`, `.NET Framework`, `Java`, `Python`;
++ **Core Concepts:**  Object-Oriented Programming (OOP), Software Testing, Web Technologies, Client–Server Architecture;
++ **Testing & QA:** Test design techniques, `TestRail`, `Qase`, `JIRA`, `Katalon Recorder`, `Selenium IDE`, `SOAP UI`, `Fiddler`, `Android Studio`;
++ **Tools & IDEs:** `VSCode`, `Visual Studio`, `IntelliJ IDEA`, `PyCharm`,  `Figma`;
++ **Methodologies:** Agile/Scrum, Waterfall, Iterative models.
 
-***Foreign languages:*** 
-**English:** Pre-Intermediate;
-**German:** Beginner;
-**Italian:** Beginner.
-
-## <a id="HProjects"></a>Projects
+## <a id="HProjects"></a>Code Examples
 
 ```
 ```
@@ -97,19 +82,12 @@ The main responsibilities are the same with the last place of work.
  
 ***February 2007 and earlier*** **- Tourism Specialist, ALC “Magazin goryashchih putevok “Mys”, etc.**
 
-## <a id="HAddInn"></a>Additional Information
+## <a id="HAddInn"></a>English Language
 
-***Professional interests:*** I always strive to learn new information, now I am studying "Agile Testing" from the book by Janet Gregory and Liza Crispin. I continue to learn English.
+**StreamLine Language School** — English Test Result & Certificate: **Intermediate Level**.  **
+Able to confidently read technical texts and effectively learn from English-language materials.
 
-***Interests:*** Photography, travel, sports, theater.
 
-## <a id="HReason"></a>Reason for applying for a job 
-
-I received my basic education in the field of tourism and worked in it for a long time. I liked my job, but information technology has changed tourism, many clients have switched to self-planning their travels. Over the past few years, I have become interested in information technology. And I realized that IT for me is a new promising opportunity for constant self-development, realization of my abilities and professional growth. 
-
-## <a id="HReferences"></a>References 
-
-Letter of recommendation from Educational Center for Programming and High Tech (IT-Academy)
 
 
 
