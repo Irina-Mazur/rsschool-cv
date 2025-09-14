@@ -6,10 +6,11 @@
 
 ### <a id="HContacts"></a>Contacts
 
-+ **Phone:** +375296866586 (Viber, WhatsApp,Telegram)
++ **Phone:** +375296866586 (Viber, WhatsApp)
 + **Email:** Irin.Mazur@gmail.com
-+ **Skype:** Irin.Mazur
-+ **Linkedin:**  
++ **Telegram:** @IrinaMazurRB
++ [GitHub – Irina Mazur](https://github.com/Irina-Mazur/rsschool-cv/)
++ [Codewars – Irina Mazur](https://www.codewars.com/users/Irina-Mazur)   
 
 ## <a id="HSummary"></a>Summary
 
