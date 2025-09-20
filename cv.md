@@ -52,12 +52,12 @@ function toCamelCase(str) {
 
 ### **Diploma Project – Belarusian State Academy of Communications**  
 **July – November 2024** 
-***Project title:*** *Information System for Travel Agency Client Management* 
-***Project description:*** Desktop application for automating the client database and related data of a travel agency. The system is designed to manage client records, orders, and partner information, as well as to collect and analyze customer feedback. 
+***Project title:*** *Information System for Travel Agency Client Management*  
+***Project description:*** Desktop application for automating the client database and related data of a travel agency. The system is designed to manage client records, orders, and partner information, as well as to collect and analyze customer feedback.  
 ***Technologies:*** C#, .NET Framework, MS SQL Server, Windows Forms.
-***Role:*** Software Engineer, Tourism Domain Specialist. 
-***Implemented:*** registration, storage, editing, deletion, and search of client information; data analysis; report generation. 
-***Applied:*** object-oriented programming principles, application architecture design, database design, and interaction with DBMS. 
+***Role:*** Software Engineer, Tourism Domain Specialist.  
+***Implemented:*** registration, storage, editing, deletion, and search of client information; data analysis; report generation.  
+***Applied:*** object-oriented programming principles, application architecture design, database design, and interaction with DBMS.  
 
 ### **Trainee – IT-Academy (Educational Center for Programming and High Tech)**
 **August - November 2020**  
